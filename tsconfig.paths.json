@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "types": [
+        "../super-max-backend/src/types"
+      ]
+    }
+  }
+}
